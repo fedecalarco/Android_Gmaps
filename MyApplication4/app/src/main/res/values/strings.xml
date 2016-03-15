@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Madryn MAP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="control">Alcoholemia</string>
+    <string name="joda">Test</string>
+    <string name="fogon">Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
